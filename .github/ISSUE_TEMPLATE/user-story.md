@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** User, 
-**I need** a service that has a counter, 
-**So that** I can keep track of how many times something was done.
+**As a** [role], 
+**I need** [function], 
+**So that** [benefit].
    
  ### Details and Assumptions
  * [document what you know]
